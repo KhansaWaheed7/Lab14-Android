@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Professional Form App</string>
+    <string name="dialog_title">Confirmation</string>
+    <string name="dialog_message">Are you sure you want to proceed?</string>
+    <string name="dialog_positive">Yes</string>
+    <string name="dialog_negative">No</string>
+    <string name="dialog_neutral">Cancel</string>
+    <string name="terms_message">Please accept the terms and conditions to continue</string>
+    <string name="success_message">Form submitted successfully!</string>
+    <string name="error_message">Please fill all required fields</string>
+    <string name="back_press_message">Press back again to exit</string>
+    <string name="gender_not_selected">Please select your gender</string>
+    <string name="date_not_selected">Please select a date</string>
+    <string name="time_not_selected">Please select a time</string>
+</resources>
